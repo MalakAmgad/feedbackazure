@@ -9,7 +9,7 @@ pool:
 
 
 variables:
-    dockerHubNamespace: 'ahmedhedihed'
+    dockerHubNamespace: 'malakihed'
     dockerHubServiceConnection: 'dockerhub-service-connection'
 
 
