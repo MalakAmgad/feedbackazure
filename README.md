@@ -9,7 +9,6 @@ A fully containerized and Kubernetes-ready feedback application consisting of:
 
 ![pipline](https://github.com/MalakAmgad/feedbackazure/blob/main/azure2.png)
 Perfect for DevOps demos, Kubernetes practice, and hands-on CI/CD pipelines.
-![pipline](https://github.com/MalakAmgad/feedbackazure/blob/main/azure.png)
 ---
 
 ## 🔧 Architecture
@@ -147,7 +146,7 @@ CI/CD pipeline defined in `azure-pipelines.yaml`.
 └── tests/
     └── test_app.py
 ```
-
+![pipline](https://github.com/MalakAmgad/feedbackazure/blob/main/azure.png)
 ---
 
 ## 🧪 Local Development
