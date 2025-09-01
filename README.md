@@ -8,7 +8,7 @@ A fully containerized and Kubernetes-ready feedback application consisting of:
 - 🔁 **CI/CD**: Azure DevOps YAML pipelines with self-hosted EC2 agents  
 
 Perfect for DevOps demos, Kubernetes practice, and hands-on CI/CD pipelines.
-
+![pipline](https://github.com/MalakAmgad/feedbackazure/blob/main/azure.png)
 ---
 
 ## 🔧 Architecture
